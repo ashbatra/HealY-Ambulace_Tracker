@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "760286358088",
+    "firebase_url": "https://ambulance-tracker-hackiiitd.firebaseio.com",
+    "project_id": "ambulance-tracker-hackiiitd",
+    "storage_bucket": "ambulance-tracker-hackiiitd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760286358088:android:8cebb013a47b9c46",
+        "android_client_info": {
+          "package_name": "com.team.ambulancetracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "760286358088-ckctcn761siau207hs4illljmv693uga.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.team.ambulancetracker",
+            "certificate_hash": "622f6749efa0c7f22334fbc8ae86704226a3bae7"
+          }
+        },
+        {
+          "client_id": "760286358088-up6cblebanronss1gumr7dik65qfomdr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3Js6fXeraRVWX_mKbYUhk9wRauTEQT2w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "760286358088-up6cblebanronss1gumr7dik65qfomdr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

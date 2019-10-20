@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">HealY</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_user_map">Map</string>
+
+    <array name="weight_unit">
+        <item>Kg</item>
+        <item>lbs</item>
+    </array>
+
+    <array name="height_unit">
+        <item>cms</item>
+        <item>ft</item>
+    </array>
+
+</resources>
